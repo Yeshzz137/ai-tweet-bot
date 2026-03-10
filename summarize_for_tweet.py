@@ -14,7 +14,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = ""  # CPU only
 summarizer = None
 try:
     summarizer = pipeline(
-        "summarization",
+        "text2text-generation",
         model="t5-small",
         tokenizer="t5-small",
         framework="pt",
