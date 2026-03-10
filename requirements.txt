@@ -1,0 +1,13 @@
+tweepy
+requests
+transformers
+python-dotenv
+torch
+feedparser
+beautifulsoup4
+pandas
+lxml
+boto3
+numpy==1.25.2
+openai
+streamlit

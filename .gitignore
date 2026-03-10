@@ -1,0 +1,49 @@
+# Python junk / bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# Virtual environments & dependencies
+ai_bot_env/
+venv/
+.env
+.env.local
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS / system junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# IDEs & editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.project
+.settings/
+.classpath
+
+# Logs & temp files
+*.log
+tmp/
+temp/
+*.bak
+*.tmp
+
+# Build & dist folders (if you ever build packages)
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Keep posted_urls.txt tracked (for deduplication persistence)
+# posted_urls.txt   ← do NOT uncomment this line
