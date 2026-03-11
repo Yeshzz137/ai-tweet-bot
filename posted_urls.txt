@@ -50,3 +50,4 @@ https://towardsdatascience.com/what-is-agent-skills-beyond-claude/
 https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/
 https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/
 https://arxiv.org/abs/2603.08717
+https://arxiv.org/abs/2603.08754
