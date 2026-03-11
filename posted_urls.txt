@@ -51,3 +51,4 @@ https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neu
 https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/
 https://arxiv.org/abs/2603.08717
 https://arxiv.org/abs/2603.08754
+https://bit.ly/40nBVbe
