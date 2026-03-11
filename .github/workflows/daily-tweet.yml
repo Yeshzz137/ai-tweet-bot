@@ -8,6 +8,9 @@ on:
     - cron: '00 15 * * *'  # ~8:30 PM IST
   workflow_dispatch:       # Manual trigger button
 
+permissions:
+  contents: write  # This allows the bot to save posted_urls.txt
+  
 jobs:
   tweet:
     runs-on: ubuntu-latest
