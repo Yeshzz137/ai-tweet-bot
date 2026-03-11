@@ -47,3 +47,4 @@ https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-pen
 https://huggingface.co/blog/ulysses-sp
 https://www.kdnuggets.com/postgres-vs-mysql-vs-sqlite-comparing-sql-performance-across-engines
 https://towardsdatascience.com/what-is-agent-skills-beyond-claude/
+https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/
