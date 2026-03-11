@@ -52,3 +52,4 @@ https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-p
 https://arxiv.org/abs/2603.08717
 https://arxiv.org/abs/2603.08754
 https://bit.ly/40nBVbe
+https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/
