@@ -57,3 +57,4 @@ https://huggingface.co/blog/nvidia/synthetic-code-concepts
 https://arxiv.org/abs/2603.09980
 https://arxiv.org/abs/2603.09983
 https://towardsdatascience.com/649627-2/
+https://towardsdatascience.com/solving-the-human-training-data-problem/
