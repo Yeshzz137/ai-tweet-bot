@@ -60,3 +60,4 @@ https://towardsdatascience.com/649627-2/
 https://towardsdatascience.com/solving-the-human-training-data-problem/
 https://arxiv.org/abs/2603.11049
 https://arxiv.org/abs/2603.11052
+https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/
