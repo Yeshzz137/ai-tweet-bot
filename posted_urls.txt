@@ -62,3 +62,4 @@ https://arxiv.org/abs/2603.11049
 https://arxiv.org/abs/2603.11052
 https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/
 https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/
+https://arxiv.org/abs/2603.11090
