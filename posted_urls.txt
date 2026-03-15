@@ -66,3 +66,4 @@ https://arxiv.org/abs/2603.11090
 https://arxiv.org/abs/2603.11094
 https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/
 https://towardsdatascience.com/the-multi-agent-trap/
+https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
