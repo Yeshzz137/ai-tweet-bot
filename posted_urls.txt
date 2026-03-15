@@ -69,3 +69,4 @@ https://towardsdatascience.com/the-multi-agent-trap/
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://towardsdatascience.com/why-care-about-promp-caching-in-llms/
 https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/
+https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/
