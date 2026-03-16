@@ -72,3 +72,4 @@ https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-ev
 https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/
 https://arxiv.org/abs/2603.12276
 https://arxiv.org/abs/2603.12288
+https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026
