@@ -75,3 +75,4 @@ https://arxiv.org/abs/2603.12288
 https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026
 https://www.kdnuggets.com/what-ai-startup-advisors-see-that-founders-often-miss
 https://arxiv.org/abs/2603.13231
+https://arxiv.org/abs/2603.13234
