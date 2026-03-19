@@ -84,3 +84,4 @@ https://www.kdnuggets.com/visualizing-patterns-in-solutions-how-data-structure-a
 https://towardsdatascience.com/the-new-experience-of-coding-with-ai/
 https://arxiv.org/abs/2603.16878
 https://arxiv.org/abs/2603.16881
+https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-1-the-geometric-intuition/
