@@ -88,3 +88,4 @@ https://towardsdatascience.com/linear-regression-is-actually-a-projection-proble
 https://www.kdnuggets.com/free-agentic-coding-with-goose
 https://arxiv.org/abs/2603.18017
 https://arxiv.org/abs/2603.18029
+https://towardsdatascience.com/how-to-measure-ai-value/
