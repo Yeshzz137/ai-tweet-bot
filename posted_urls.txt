@@ -87,3 +87,4 @@ https://arxiv.org/abs/2603.16881
 https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-1-the-geometric-intuition/
 https://www.kdnuggets.com/free-agentic-coding-with-goose
 https://arxiv.org/abs/2603.18017
+https://arxiv.org/abs/2603.18029
