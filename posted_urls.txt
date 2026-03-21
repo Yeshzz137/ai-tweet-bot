@@ -90,3 +90,4 @@ https://arxiv.org/abs/2603.18017
 https://arxiv.org/abs/2603.18029
 https://towardsdatascience.com/how-to-measure-ai-value/
 https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/
+https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
