@@ -93,3 +93,4 @@ https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/
 https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
 https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/
 https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/
+https://towardsdatascience.com/escaping-the-sql-jungle/
