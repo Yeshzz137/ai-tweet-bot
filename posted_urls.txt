@@ -96,3 +96,4 @@ https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-op
 https://towardsdatascience.com/escaping-the-sql-jungle/
 https://huggingface.co/blog/ibm-granite/granite-libraries
 https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works
+https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/
