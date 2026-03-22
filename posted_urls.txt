@@ -95,3 +95,4 @@ https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/
 https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/
 https://towardsdatascience.com/escaping-the-sql-jungle/
 https://huggingface.co/blog/ibm-granite/granite-libraries
+https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works
