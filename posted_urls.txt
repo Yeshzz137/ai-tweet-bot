@@ -98,3 +98,4 @@ https://huggingface.co/blog/ibm-granite/granite-libraries
 https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works
 https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/
 https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/
+https://arxiv.org/abs/2603.19289
