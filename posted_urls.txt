@@ -101,3 +101,4 @@ https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-pyth
 https://arxiv.org/abs/2603.19289
 https://arxiv.org/abs/2603.19291
 https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-drift-before-f1-drops-label-free/
+https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates
