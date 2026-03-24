@@ -104,3 +104,4 @@ https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-d
 https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates
 https://arxiv.org/abs/2603.20266
 https://arxiv.org/abs/2603.20295
+https://towardsdatascience.com/production-ready-llm-agents-a-comprehensive-framework-for-offline-evaluation/
