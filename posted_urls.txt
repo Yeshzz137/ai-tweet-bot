@@ -106,3 +106,4 @@ https://arxiv.org/abs/2603.20266
 https://arxiv.org/abs/2603.20295
 https://towardsdatascience.com/production-ready-llm-agents-a-comprehensive-framework-for-offline-evaluation/
 https://towardsdatascience.com/from-dashboards-to-decisions-rethinking-data-analytics-in-the-age-of-ai/
+https://arxiv.org/abs/2603.22292
