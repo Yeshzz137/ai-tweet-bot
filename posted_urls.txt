@@ -108,3 +108,4 @@ https://towardsdatascience.com/production-ready-llm-agents-a-comprehensive-frame
 https://towardsdatascience.com/from-dashboards-to-decisions-rethinking-data-analytics-in-the-age-of-ai/
 https://arxiv.org/abs/2603.22292
 https://arxiv.org/abs/2603.22294
+https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-5/
