@@ -110,3 +110,4 @@ https://arxiv.org/abs/2603.22292
 https://arxiv.org/abs/2603.22294
 https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-5/
 https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms
+https://arxiv.org/abs/2603.23517
