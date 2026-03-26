@@ -112,3 +112,4 @@ https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-mon
 https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms
 https://arxiv.org/abs/2603.23517
 https://arxiv.org/abs/2603.23550
+https://www.kdnuggets.com/10-github-repositories-to-master-openclaw
