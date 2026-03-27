@@ -117,3 +117,4 @@ https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-
 https://arxiv.org/abs/2603.23558
 https://arxiv.org/abs/2603.23562
 https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/
+https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/
