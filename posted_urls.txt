@@ -118,3 +118,4 @@ https://arxiv.org/abs/2603.23558
 https://arxiv.org/abs/2603.23562
 https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/
 https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/
+https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know
