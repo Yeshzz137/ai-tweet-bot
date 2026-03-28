@@ -121,3 +121,4 @@ https://towardsdatascience.com/building-a-production-grade-multi-node-training-p
 https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know
 https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/
 https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/
+https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/
