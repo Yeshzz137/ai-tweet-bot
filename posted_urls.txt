@@ -127,3 +127,4 @@ https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-
 https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/
 https://huggingface.co/blog/ServiceNow-AI/eva
 https://arxiv.org/abs/2603.25771
+https://arxiv.org/abs/2603.25779
