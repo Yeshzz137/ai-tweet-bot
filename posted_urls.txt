@@ -128,3 +128,4 @@ https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model
 https://huggingface.co/blog/ServiceNow-AI/eva
 https://arxiv.org/abs/2603.25771
 https://arxiv.org/abs/2603.25779
+https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection
