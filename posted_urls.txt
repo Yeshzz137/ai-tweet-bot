@@ -132,3 +132,4 @@ https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selectio
 https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/
 https://arxiv.org/abs/2603.26671
 https://arxiv.org/abs/2603.26713
+https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/
