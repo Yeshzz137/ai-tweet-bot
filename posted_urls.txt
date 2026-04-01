@@ -136,3 +136,4 @@ https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours
 https://bit.ly/Ingram-topic-23-kdn-website#new_tab
 https://arxiv.org/abs/2603.28845
 https://arxiv.org/abs/2603.28916
+https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production
