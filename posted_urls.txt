@@ -134,3 +134,4 @@ https://arxiv.org/abs/2603.26671
 https://arxiv.org/abs/2603.26713
 https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/
 https://bit.ly/Ingram-topic-23-kdn-website#new_tab
+https://arxiv.org/abs/2603.28845
