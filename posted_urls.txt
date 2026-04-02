@@ -141,3 +141,4 @@ https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enac
 https://arxiv.org/abs/2604.00001
 https://arxiv.org/abs/2604.00050
 https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/
+https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning
