@@ -138,3 +138,4 @@ https://arxiv.org/abs/2603.28845
 https://arxiv.org/abs/2603.28916
 https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production
 https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/
+https://arxiv.org/abs/2604.00001
