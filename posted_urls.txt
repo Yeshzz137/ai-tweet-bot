@@ -144,3 +144,4 @@ https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/
 https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning
 https://arxiv.org/abs/2604.01261
 https://arxiv.org/abs/2604.01279
+https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers
