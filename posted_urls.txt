@@ -148,3 +148,4 @@ https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers
 https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews
 https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/
 https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/
+https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/
