@@ -152,3 +152,4 @@ https://towardsdatascience.com/building-robust-credit-scoring-models-with-python
 https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/
 https://huggingface.co/blog/gemma4
 https://huggingface.co/blog/Hcompany/holo3
+https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/
