@@ -156,3 +156,4 @@ https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/
 https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/
 https://arxiv.org/abs/2604.02335
 https://arxiv.org/abs/2604.02337
+https://towardsdatascience.com/how-to-run-claude-code-agents-in-parallel/
