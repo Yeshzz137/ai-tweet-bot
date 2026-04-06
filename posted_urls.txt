@@ -157,3 +157,4 @@ https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-i
 https://arxiv.org/abs/2604.02335
 https://arxiv.org/abs/2604.02337
 https://towardsdatascience.com/how-to-run-claude-code-agents-in-parallel/
+https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-projections-and-intuition/
