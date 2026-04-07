@@ -161,3 +161,4 @@ https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-
 https://arxiv.org/abs/2604.02338
 https://arxiv.org/abs/2604.02339
 https://www.kdnuggets.com/7-steps-to-mastering-retrieval-augmented-generation
+https://www.kdnuggets.com/supabase-vs-firebase-which-backend-is-right-for-your-next-app
