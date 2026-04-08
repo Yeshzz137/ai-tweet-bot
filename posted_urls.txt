@@ -163,3 +163,4 @@ https://arxiv.org/abs/2604.02339
 https://www.kdnuggets.com/7-steps-to-mastering-retrieval-augmented-generation
 https://www.kdnuggets.com/supabase-vs-firebase-which-backend-is-right-for-your-next-app
 https://towardsdatascience.com/democratizing-marketing-mix-models-mmm-with-open-source-and-gen-ai/
+https://towardsdatascience.com/from-4-weeks-to-45-minutes-designing-a-document-extraction-system-for-4700-pdfs/
