@@ -165,3 +165,4 @@ https://www.kdnuggets.com/supabase-vs-firebase-which-backend-is-right-for-your-n
 https://towardsdatascience.com/democratizing-marketing-mix-models-mmm-with-open-source-and-gen-ai/
 https://towardsdatascience.com/from-4-weeks-to-45-minutes-designing-a-document-extraction-system-for-4700-pdfs/
 https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide
+https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/
