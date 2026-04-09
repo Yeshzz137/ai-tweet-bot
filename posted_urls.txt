@@ -166,3 +166,4 @@ https://towardsdatascience.com/democratizing-marketing-mix-models-mmm-with-open-
 https://towardsdatascience.com/from-4-weeks-to-45-minutes-designing-a-document-extraction-system-for-4700-pdfs/
 https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide
 https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/
+https://arxiv.org/abs/2604.06227
