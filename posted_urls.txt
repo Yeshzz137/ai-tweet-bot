@@ -168,3 +168,4 @@ https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agent
 https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/
 https://arxiv.org/abs/2604.06227
 https://arxiv.org/abs/2604.06228
+https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course
