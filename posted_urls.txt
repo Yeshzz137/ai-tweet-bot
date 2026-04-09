@@ -169,3 +169,4 @@ https://towardsdatascience.com/detecting-translation-hallucinations-with-attenti
 https://arxiv.org/abs/2604.06227
 https://arxiv.org/abs/2604.06228
 https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course
+https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful
