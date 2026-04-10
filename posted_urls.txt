@@ -172,3 +172,4 @@ https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course
 https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful
 https://arxiv.org/abs/2604.07355
 https://arxiv.org/abs/2604.07361
+https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/
