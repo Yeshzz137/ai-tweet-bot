@@ -177,3 +177,4 @@ https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-f
 https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/
 https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users
 https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/
+https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/
