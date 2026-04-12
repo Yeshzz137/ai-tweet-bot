@@ -181,3 +181,4 @@ https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/
 https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/
 https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding
 https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/
+https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/
