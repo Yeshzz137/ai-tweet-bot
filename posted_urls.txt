@@ -179,3 +179,4 @@ https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users
 https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/
 https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/
 https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/
+https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding
