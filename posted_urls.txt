@@ -184,3 +184,4 @@ https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-her
 https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/
 https://arxiv.org/abs/2604.08553
 https://arxiv.org/abs/2604.08569
+https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare
