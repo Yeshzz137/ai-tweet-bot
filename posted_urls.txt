@@ -190,3 +190,4 @@ https://arxiv.org/abs/2604.09560
 https://arxiv.org/abs/2604.09656
 https://www.kdnuggets.com/collaborative-ai-systems-human-ai-teaming-workflows
 https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/
+https://arxiv.org/abs/2604.11833
