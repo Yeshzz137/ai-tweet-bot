@@ -194,3 +194,4 @@ https://arxiv.org/abs/2604.11833
 https://arxiv.org/abs/2604.11835
 https://www.kdnuggets.com/7-steps-to-mastering-language-model-deployment
 https://www.kdnuggets.com/notebooklm-for-the-creative-architect
+https://arxiv.org/abs/2604.13081
