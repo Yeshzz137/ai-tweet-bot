@@ -201,3 +201,4 @@ https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle
 https://arxiv.org/abs/2604.14176
 https://arxiv.org/abs/2604.14198
 https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings
+https://huggingface.co/blog/nvidia/gr00t-n1-7
