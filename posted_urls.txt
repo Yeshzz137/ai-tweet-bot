@@ -198,3 +198,4 @@ https://arxiv.org/abs/2604.13081
 https://arxiv.org/abs/2604.13082
 https://www.kdnuggets.com/python-project-setup-2026-uv-ruff-ty-polars
 https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/
+https://arxiv.org/abs/2604.14176
