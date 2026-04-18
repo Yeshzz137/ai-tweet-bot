@@ -204,3 +204,4 @@ https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics
 https://huggingface.co/blog/nvidia/gr00t-n1-7
 https://arxiv.org/abs/2604.14209
 https://arxiv.org/abs/2604.14231
+https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/
