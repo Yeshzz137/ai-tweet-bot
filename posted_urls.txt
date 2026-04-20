@@ -211,3 +211,4 @@ https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-scien
 https://towardsdatascience.com/dreaming-in-cubes/
 https://arxiv.org/abs/2604.15351
 https://arxiv.org/abs/2604.15356
+https://www.kdnuggets.com/merging-language-models-with-unsloth-studio
