@@ -221,3 +221,4 @@ https://arxiv.org/abs/2604.18639
 https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning
 https://huggingface.co/blog/nvidia/gemma4
 https://arxiv.org/abs/2604.19756
+https://arxiv.org/abs/2604.19757
