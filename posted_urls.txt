@@ -227,3 +227,4 @@ https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/
 https://arxiv.org/abs/2604.19767
 https://arxiv.org/abs/2604.19800
 https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/
+https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/
