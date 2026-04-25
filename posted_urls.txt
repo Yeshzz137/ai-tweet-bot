@@ -229,3 +229,4 @@ https://arxiv.org/abs/2604.19800
 https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/
 https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/
 https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/
+https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/
