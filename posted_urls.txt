@@ -233,3 +233,4 @@ https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-ma
 https://towardsdatascience.com/causal-inference-is-different-in-business/
 https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know
 https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/
+https://arxiv.org/abs/2605.06675
