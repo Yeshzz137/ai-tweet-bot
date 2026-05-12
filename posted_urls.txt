@@ -239,3 +239,4 @@ https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-ac
 https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity
 https://arxiv.org/abs/2605.08098
 https://arxiv.org/abs/2605.08102
+https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/
