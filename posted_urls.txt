@@ -238,3 +238,4 @@ https://arxiv.org/abs/2605.06676
 https://www.kdnuggets.com/build-an-ai-powered-learning-management-system-that-actually-trains-people
 https://www.kdnuggets.com/guardrails-for-llms-measuring-ai-hallucination-and-verbosity
 https://arxiv.org/abs/2605.08098
+https://arxiv.org/abs/2605.08102
