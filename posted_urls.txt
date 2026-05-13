@@ -243,3 +243,4 @@ https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/
 https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/
 https://arxiv.org/abs/2605.10947
 https://arxiv.org/abs/2605.10959
+https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026
