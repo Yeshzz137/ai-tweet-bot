@@ -241,3 +241,4 @@ https://arxiv.org/abs/2605.08098
 https://arxiv.org/abs/2605.08102
 https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/
 https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/
+https://arxiv.org/abs/2605.10947
