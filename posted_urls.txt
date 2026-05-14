@@ -245,3 +245,4 @@ https://arxiv.org/abs/2605.10947
 https://arxiv.org/abs/2605.10959
 https://www.kdnuggets.com/how-ai-agents-will-transform-data-science-work-in-2026
 https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/
+https://arxiv.org/abs/2605.12561
