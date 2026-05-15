@@ -251,3 +251,4 @@ https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inf
 https://arxiv.org/abs/2605.13923
 https://arxiv.org/abs/2605.13930
 https://towardsdatascience.com/how-i-continually-improve-my-claude-code/
+https://towardsdatascience.com/from-raw-data-to-risk-classes/
