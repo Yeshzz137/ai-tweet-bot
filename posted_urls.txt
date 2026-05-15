@@ -248,3 +248,4 @@ https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-d
 https://arxiv.org/abs/2605.12561
 https://towardsdatascience.com/the-counterintuitive-networking-decisions-behind-openais-131000-gpu-training-fabric/
 https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/
+https://arxiv.org/abs/2605.13923
